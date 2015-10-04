@@ -1,0 +1,99 @@
+VALVE: Fri 07:29:30 AM, Sep 04 2015; Watering completed [flow 7.35 gallons; duration 00:00:49].
+VALVE: Fri 07:28:41 AM, Sep 04 2015; Manual watering started [zone 16].
+VALVE: Fri 07:28:40 AM, Sep 04 2015; Watering completed [flow 16.05 gallons; duration 00:00:55].
+VALVE: Fri 07:27:45 AM, Sep 04 2015; Manual watering started [zone 15].
+VALVE: Fri 07:27:44 AM, Sep 04 2015; Watering completed [flow 4.34 gallons; duration 00:00:49].
+VALVE: Fri 07:26:55 AM, Sep 04 2015; Manual watering started [zone 14].
+VALVE: Fri 07:26:54 AM, Sep 04 2015; Watering completed [flow 10.40 gallons; duration 00:00:42].
+VALVE: Fri 07:26:12 AM, Sep 04 2015; Manual watering started [zone 13].
+VALVE: Fri 07:26:11 AM, Sep 04 2015; Watering completed [flow 16.45 gallons; duration 00:00:46].
+VALVE: Fri 07:25:25 AM, Sep 04 2015; Manual watering started [zone 12].
+VALVE: Fri 07:25:06 AM, Sep 04 2015; Watering completed [flow 17.47 gallons; duration 00:01:08].
+VALVE: Fri 07:23:58 AM, Sep 04 2015; Manual watering started [zone 4].
+VALVE: Fri 07:23:53 AM, Sep 04 2015; Watering completed [flow 11.04 gallons; duration 00:01:08].
+VALVE: Fri 07:22:45 AM, Sep 04 2015; Manual watering started [zone 5].
+VALVE: Fri 07:22:44 AM, Sep 04 2015; Watering completed [flow 6.62 gallons; duration 00:00:36].
+VALVE: Fri 07:22:08 AM, Sep 04 2015; Manual watering started [zone 6].
+VALVE: Fri 07:22:03 AM, Sep 04 2015; Watering completed [flow 0.00 gallons; duration 00:01:08].
+VALVE: Fri 07:20:55 AM, Sep 04 2015; Manual watering started [zone 7].
+VALVE: Fri 07:20:50 AM, Sep 04 2015; Watering completed [flow 4.77 gallons; duration 00:01:08].
+VALVE: Fri 07:19:42 AM, Sep 04 2015; Manual watering started [zone 8].
+VALVE: Fri 07:00:09 AM, Sep 04 2015; Watering completed [flow 391.53 gallons; duration 01:00:09].
+MODBUS: Fri 06:06:17 AM, Sep 04 2015; Application upgrade process completed. [module EM1]
+MODBUS: Fri 06:04:00 AM, Sep 04 2015; Application upgrade process started... [module EM1; from 255.255.255 to 1.0.02]
+VALVE: Fri 06:00:00 AM, Sep 04 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Thu 09:15:22 AM, Sep 03 2015; Watering completed [flow 658.35 gallons; duration 01:15:22].
+VALVE: Thu 08:00:00 AM, Sep 03 2015; Automatic watering started [cycle 4; timer 1].
+VALVE: Thu 07:35:15 AM, Sep 03 2015; Watering completed [flow 603.38 gallons; duration 00:30:15].
+VALVE: Thu 07:05:00 AM, Sep 03 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Sun 07:12:45 AM, Oct 04 2015; Watering completed [flow 160.17 gallons; duration 00:07:45].
+VALVE: Sun 07:05:00 AM, Oct 04 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Fri 07:00:08 AM, Oct 02 2015; Watering completed [flow 405.11 gallons; duration 01:00:08].
+VALVE: Fri 06:00:00 AM, Oct 02 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Thu 09:15:22 AM, Oct 01 2015; Watering completed [flow 184.56 gallons; duration 01:15:22].
+VALVE: Thu 08:00:00 AM, Oct 01 2015; Automatic watering started [cycle 4; timer 1].
+VALVE: Thu 07:35:15 AM, Oct 01 2015; Watering completed [flow 581.09 gallons; duration 00:30:15].
+VALVE: Thu 07:05:00 AM, Oct 01 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Wed 07:00:09 AM, Sep 30 2015; Watering completed [flow 405.48 gallons; duration 01:00:09].
+VALVE: Wed 06:00:00 AM, Sep 30 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Tue 09:10:23 AM, Sep 29 2015; Watering completed [flow 914.88 gallons; duration 01:10:23].
+VALVE: Tue 08:00:00 AM, Sep 29 2015; Automatic watering started [cycle 3; timer 1].
+VALVE: Tue 07:35:15 AM, Sep 29 2015; Watering completed [flow 579.15 gallons; duration 00:30:15].
+VALVE: Tue 07:05:00 AM, Sep 29 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Mon 07:00:08 AM, Sep 28 2015; Watering completed [flow 405.07 gallons; duration 01:00:08].
+VALVE: Mon 06:00:00 AM, Sep 28 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Sun 07:35:16 AM, Sep 27 2015; Watering completed [flow 561.70 gallons; duration 00:30:16].
+VALVE: Sun 07:05:00 AM, Sep 27 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Fri 07:00:08 AM, Sep 25 2015; Watering completed [flow 401.41 gallons; duration 01:00:08].
+VALVE: Fri 06:00:00 AM, Sep 25 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Thu 09:15:27 AM, Sep 24 2015; Watering completed [flow 183.29 gallons; duration 01:15:27].
+VALVE: Thu 08:00:00 AM, Sep 24 2015; Automatic watering started [cycle 4; timer 1].
+VALVE: Thu 07:35:16 AM, Sep 24 2015; Watering completed [flow 566.47 gallons; duration 00:30:16].
+VALVE: Thu 07:05:00 AM, Sep 24 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Wed 09:46:57 AM, Sep 23 2015; Watering completed [flow 761.28 gallons; duration 00:30:15].
+VALVE: Wed 09:16:42 AM, Sep 23 2015; Manual watering started [cycle 1].
+VALVE: Wed 07:00:08 AM, Sep 23 2015; Watering completed [flow 395.96 gallons; duration 01:00:08].
+VALVE: Wed 06:00:00 AM, Sep 23 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Tue 09:10:23 AM, Sep 22 2015; Watering completed [flow 876.44 gallons; duration 01:10:23].
+VALVE: Tue 08:00:00 AM, Sep 22 2015; Automatic watering started [cycle 3; timer 1].
+VALVE: Tue 07:35:15 AM, Sep 22 2015; Watering completed [flow 564.78 gallons; duration 00:30:15].
+VALVE: Tue 07:05:00 AM, Sep 22 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Sun 07:35:15 AM, Sep 20 2015; Watering completed [flow 572.77 gallons; duration 00:30:15].
+VALVE: Sun 07:05:00 AM, Sep 20 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Fri 07:00:08 AM, Sep 18 2015; Watering completed [flow 398.09 gallons; duration 01:00:08].
+VALVE: Fri 06:00:00 AM, Sep 18 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Thu 09:15:22 AM, Sep 17 2015; Watering completed [flow 668.56 gallons; duration 01:15:22].
+VALVE: Thu 08:00:00 AM, Sep 17 2015; Automatic watering started [cycle 4; timer 1].
+VALVE: Thu 07:35:15 AM, Sep 17 2015; Watering completed [flow 566.30 gallons; duration 00:30:15].
+VALVE: Thu 07:05:00 AM, Sep 17 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Tue 09:10:22 AM, Sep 15 2015; Watering completed [flow 881.64 gallons; duration 01:10:22].
+VALVE: Tue 08:00:00 AM, Sep 15 2015; Automatic watering started [cycle 3; timer 1].
+VALVE: Tue 07:35:16 AM, Sep 15 2015; Watering completed [flow 570.13 gallons; duration 00:30:16].
+VALVE: Tue 07:05:00 AM, Sep 15 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Mon 08:20:34 AM, Sep 14 2015; Watering completed [flow 593.75 gallons; duration 01:15:22].
+VALVE: Mon 07:05:12 AM, Sep 14 2015; Manual watering started [cycle 4].
+VALVE: Sun 07:35:15 AM, Sep 13 2015; Watering completed [flow 567.15 gallons; duration 00:30:15].
+VALVE: Sun 07:05:00 AM, Sep 13 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Fri 12:02:13 PM, Sep 11 2015; Watering completed [flow 727.90 gallons; duration 01:15:23].
+VALVE: Fri 10:46:50 AM, Sep 11 2015; Manual watering started [cycle 4].
+VALVE: Fri 07:00:09 AM, Sep 11 2015; Watering completed [flow 398.87 gallons; duration 01:00:09].
+VALVE: Fri 06:00:00 AM, Sep 11 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Thu 09:15:22 AM, Sep 10 2015; Watering completed [flow 604.66 gallons; duration 01:15:22].
+VALVE: Thu 08:00:00 AM, Sep 10 2015; Automatic watering started [cycle 4; timer 1].
+VALVE: Thu 07:35:15 AM, Sep 10 2015; Watering completed [flow 558.44 gallons; duration 00:30:15].
+VALVE: Thu 07:05:00 AM, Sep 10 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Wed 07:00:08 AM, Sep 09 2015; Watering completed [flow 400.27 gallons; duration 01:00:08].
+VALVE: Wed 06:00:00 AM, Sep 09 2015; Automatic watering started [cycle 2; timer 1].
+VALVE: Tue 09:10:22 AM, Sep 08 2015; Watering completed [flow 862.43 gallons; duration 01:10:22].
+VALVE: Tue 08:00:00 AM, Sep 08 2015; Automatic watering started [cycle 3; timer 1].
+VALVE: Tue 07:35:15 AM, Sep 08 2015; Watering completed [flow 557.82 gallons; duration 00:30:15].
+VALVE: Tue 07:05:00 AM, Sep 08 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Sun 09:39:09 AM, Sep 06 2015; Watering completed [flow 428.33 gallons; duration 01:00:08].
+VALVE: Sun 08:39:01 AM, Sep 06 2015; Manual watering started [zone 5].
+VALVE: Sun 08:39:00 AM, Sep 06 2015; Watering completed [flow 371.47 gallons; duration 00:40:39].
+VALVE: Sun 07:58:21 AM, Sep 06 2015; Manual watering started [zone 5].
+VALVE: Sun 07:35:15 AM, Sep 06 2015; Watering completed [flow 576.40 gallons; duration 00:30:15].
+VALVE: Sun 07:05:00 AM, Sep 06 2015; Automatic watering started [cycle 1; timer 1].
+VALVE: Fri 07:32:07 AM, Sep 04 2015; Watering completed [flow 24.26 gallons; duration 00:01:08].
+VALVE: Fri 07:30:59 AM, Sep 04 2015; Manual watering started [zone 17].
+VALVE: Fri 07:30:39 AM, Sep 04 2015; Watering completed [flow 25.28 gallons; duration 00:01:08].
