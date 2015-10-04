@@ -1,0 +1,15 @@
+---
+title: "netAQUA_ext"
+author: "Susan Lively Klug"
+date: "October 4, 2015"
+output: html_document
+---
+
+netAQUA by Roslen is a sprinkler valve controller with a web interface.
+
+
+I am running 16 valves watering 2 acres and spend quite a bit of time troubleshooting the breaks in lines, the electrical faults, and trying to keep the water bills optimized without killing all of the trees and plants.
+
+The web interface for netAQUA is nice and the inventors are providing updates with the eventual release of an API.  In the meantime I wrote the script below to just scrape the data from the site and plan to do some simple graphs and reports using the R programming language because I happen to be taking courses in that language with Data Science as the subject matter.
+
+This is the first draft with a fair bit of hard coded hacks that will need to be cleaned up and removed.  It's really more of a proof of concept.
